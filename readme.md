@@ -24,3 +24,7 @@ Seu objetivo é dizer o montante de venda de exportação nos últimos 15 anos, 
 análise por país e trazendo quais as prospecções futuras e possíveis ações para uma melhoria
 nas exportações. Construa gráficos atraentes e que passem a ideia central para que os
 acionistas e investidores possam seguir em frente com suas ações.
+
+Refs:
+https://on.fiap.com.br/mod/conteudoshtml/view.php?id=307809&c=8729&sesskey=XjOvgMTfM6
+http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01
